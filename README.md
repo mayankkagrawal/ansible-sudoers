@@ -1,4 +1,4 @@
-# Deprecation warning
+# Deprecation Warning
 
 Unmaintained project. Please, use good alternative: [wtcross.sudoers](https://galaxy.ansible.com/wtcross/sudoers/)
 
